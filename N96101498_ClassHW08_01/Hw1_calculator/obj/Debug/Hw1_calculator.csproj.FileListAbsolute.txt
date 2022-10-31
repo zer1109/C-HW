@@ -1,0 +1,10 @@
+D:\Master's_Degree_2\C#程式設計\Class_HW\Hw1_calculator\Hw1_calculator\bin\Debug\Hw1_calculator.exe.config
+D:\Master's_Degree_2\C#程式設計\Class_HW\Hw1_calculator\Hw1_calculator\bin\Debug\Hw1_calculator.exe
+D:\Master's_Degree_2\C#程式設計\Class_HW\Hw1_calculator\Hw1_calculator\bin\Debug\Hw1_calculator.pdb
+D:\Master's_Degree_2\C#程式設計\Class_HW\Hw1_calculator\Hw1_calculator\obj\Debug\Hw1_calculator.csproj.AssemblyReference.cache
+D:\Master's_Degree_2\C#程式設計\Class_HW\Hw1_calculator\Hw1_calculator\obj\Debug\Hw1_calculator.Form1.resources
+D:\Master's_Degree_2\C#程式設計\Class_HW\Hw1_calculator\Hw1_calculator\obj\Debug\Hw1_calculator.Properties.Resources.resources
+D:\Master's_Degree_2\C#程式設計\Class_HW\Hw1_calculator\Hw1_calculator\obj\Debug\Hw1_calculator.csproj.GenerateResource.cache
+D:\Master's_Degree_2\C#程式設計\Class_HW\Hw1_calculator\Hw1_calculator\obj\Debug\Hw1_calculator.csproj.CoreCompileInputs.cache
+D:\Master's_Degree_2\C#程式設計\Class_HW\Hw1_calculator\Hw1_calculator\obj\Debug\Hw1_calculator.exe
+D:\Master's_Degree_2\C#程式設計\Class_HW\Hw1_calculator\Hw1_calculator\obj\Debug\Hw1_calculator.pdb
